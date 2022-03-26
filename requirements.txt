@@ -1,0 +1,17 @@
+args==0.1.0
+certifi==2021.5.30
+charset-normalizer==2.0.4
+clint==0.5.1
+colorama==0.4.4
+frida==15.0.14
+frida-tools==10.2.1
+idna==3.2
+mercurial==5.8
+prompt-toolkit==3.0.19
+py-radius==2.0.2.post1
+Pygments==2.9.0
+requests==2.26.0
+six==1.16.0
+slugify==0.0.1
+urllib3==1.26.6
+wcwidth==0.2.5
